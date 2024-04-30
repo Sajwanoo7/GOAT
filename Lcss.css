@@ -1,0 +1,35 @@
+body {
+	background-image: url(bck.jpg) ;
+	background-repeat: no-repeat;
+  background-size: cover ;
+}
+
+h1 {
+	color: darkred;
+	background-color: yellow;
+}
+
+h3 {
+	color: red;
+}
+
+p {
+	font-style: italic;
+	font-family: cursive;
+	text-align: right;
+	float: right;
+}
+
+img {
+	margin: 20px;
+	transition: all 1s;
+	
+}
+
+img:hover {
+	transform: scale(1.1);
+}
+
+.btn-primary {
+	background-color: darkred;
+}

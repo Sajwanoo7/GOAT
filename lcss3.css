@@ -1,0 +1,29 @@
+body {
+	background: url(css3.jpg);
+	background-size: cover;
+}
+
+form {
+	color: yellow;
+}
+
+h1 {
+	color: hotpink;
+	text-align: center;
+}
+
+.btn {
+	background-color: yellowgreen;
+}
+
+.btn2 {
+	background-color: hotpink;
+}
+
+.btn:hover {
+	background-color: dodgerblue;
+}
+
+.btn2:hover {
+	background-color: aqua;
+}
